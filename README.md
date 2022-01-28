@@ -78,10 +78,14 @@ I was recently hired on by New York Citi Bike Program, the largest bike sharing 
 
 
 ### Task 3: Visualizations - Dynamic Maps (by month & year)
+![02 - Citi Bike Map Start Station- April-Sept 2020](https://user-images.githubusercontent.com/88587843/151610699-bc4624b8-6b5a-4284-8a26-be4fa1706a36.png)
 
-![Map-StartStation](Images/map_startstation.png)
+![04 - Citi Bike Map Start Station- April-Sept 2021](https://user-images.githubusercontent.com/88587843/151610725-696d4e90-5407-426d-a54b-5e0504107337.png)
+
 - - -
-![Map-EndStation](Images/map_endstation.png)
+![03 - Citi Bike Map End Station- April-Sept 2020](https://user-images.githubusercontent.com/88587843/151610714-8580ade2-316f-4ca3-a8a0-5590da353373.png)
+
+![05 - Citi Bike Map End Station- April-Sept 2021](https://user-images.githubusercontent.com/88587843/151610737-8f87a64a-cbc2-4b7c-b82e-e05ed69f06b1.png)
 
 ### Task 4: Phenomenon Analysis
 
